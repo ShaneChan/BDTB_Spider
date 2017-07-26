@@ -156,3 +156,4 @@ class BDTB_Spider:
 if __name__ == '__main__':
 	bdtb = BDTB_Spider('https://tieba.baidu.com/p/5167574704')
 	bdtb.execute()
+	
